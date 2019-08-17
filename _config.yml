@@ -12,11 +12,11 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Ngo Van Đat # add your name
 author-img: ngovandat.jpg # add your photo
 about-author: I am a software developer. I like technology, sports and traveling.. # add description
-social-twitter: https://twitter.com/ngvada # add your Twitter handle
-social-facebook: https://www.facebook.com/datnv0303 # add your Facebook handle
-social-github: https://github.com/ngvadait # add your Github handle
-social-linkedin: https://www.linkedin.com/in/dat-ngo-van-b97711154/ # add your Linkedin handle
-social-email: # add your Email address
+social-twitter: ngvada # add your Twitter handle
+social-facebook: datnv0303 # add your Facebook handle
+social-github: ngvadait # add your Github handle
+social-linkedin: dat-ngo-van-b97711154/ # add your Linkedin handle
+social-email:  ngvadadev@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: datnv # add your discus identifier
